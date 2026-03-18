@@ -7,11 +7,11 @@ A curated list of songs with links to playback, simple chords, and melody/sheet 
 | Song | Artist | Playback | Simple Chords | Melody/Sheet Music |
 |------|--------|----------|---------------|-------------------|
 | **If This Is The Last Time** | LANY | [Spotify](https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc) | [Ultimate Guitar (Capo 4: G, D, Em, C)](https://tabs.ultimate-guitar.com/tab/lany/if-this-is-the-last-time-chords-3228428) | [Chordify (interactive)](https://chordify.net/chords/lany-songs/if-this-is-the-last-time-chords) |
-| **The Middle** | Jimmy Eat World | — | [Ultimate Guitar (D, G, A)](https://tabs.ultimate-guitar.com/tab/jimmy-eat-world/the-middle-chords-872107) | [Sheet Music Direct](https://www.sheetmusicdirect.com/en-US/se/ID_No/162490/Product.aspx) |
+| **The Middle** | Jimmy Eat World | [YouTube](https://www.youtube.com/watch?v=oKsxPW6i3pM) | [Ultimate Guitar (D, G, A)](https://tabs.ultimate-guitar.com/tab/jimmy-eat-world/the-middle-chords-872107) | [Sheet Music Direct](https://www.sheetmusicdirect.com/en-US/se/ID_No/162490/Product.aspx) |
 | **Sing Your Praise To The Lord** | Amy Grant | [Spotify](https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil) | [Chordify](https://chordify.net/chords/amy-grant-songs/sing-your-praise-to-the-lord-chords) | [Noteflight (full notation)](https://www.noteflight.com/music/titles/68ae0467-359f-4c3a-86b8-6b4135337a08/sing-your-praise-to-the-lord) |
-| **Annie's Song** | John Denver | — | [Ultimate Guitar (simplified)](https://tabs.ultimate-guitar.com/tab/john-denver/annies-song-chords-831622) | [MuseScore (free)](https://musescore.com/user/37067197/scores/11760211) |
-| **Let It Be** | The Beatles | — | [Ultimate Guitar](https://tabs.ultimate-guitar.com/tab/the-beatles/let-it-be-chords-17427) | [SheetsFree (PDF)](https://sheetsfree.com/sheets/B/The%20Beatles%20-%20Let%20It%20Be.pdf) |
-| **Take Me Home, Country Roads** | John Denver | — | [Ultimate Guitar](https://tabs.ultimate-guitar.com/tab/john-denver/take-me-home-country-roads-chords-57606) | [Heartwood Guitar](https://www.heartwoodguitar.com/chords/john-denver-take-me-home-country-roads/) |
+| **Annie's Song** | John Denver | [YouTube](https://www.youtube.com/watch?v=RNOTF-znQyw) | [Ultimate Guitar (simplified)](https://tabs.ultimate-guitar.com/tab/john-denver/annies-song-chords-831622) | [MuseScore (free)](https://musescore.com/user/37067197/scores/11760211) |
+| **Let It Be** | The Beatles | [YouTube](https://www.youtube.com/watch?v=CGj85pVzRJs) | [Ultimate Guitar](https://tabs.ultimate-guitar.com/tab/the-beatles/let-it-be-chords-17427) | [SheetsFree (PDF)](https://sheetsfree.com/sheets/B/The%20Beatles%20-%20Let%20It%20Be.pdf) |
+| **Take Me Home, Country Roads** | John Denver | [YouTube](https://www.youtube.com/watch?v=c0dvabcWVo0) | [Ultimate Guitar](https://tabs.ultimate-guitar.com/tab/john-denver/take-me-home-country-roads-chords-57606) | [Heartwood Guitar](https://www.heartwoodguitar.com/chords/john-denver-take-me-home-country-roads/) |
 | **Somewhere Out There** | An American Tail | [YouTube](https://www.youtube.com/watch?v=usZPFIT5phM) | [Ultimate Guitar (C, F, G, Am)](https://tabs.ultimate-guitar.com/tab/misc-cartoons/an-american-tail-somewhere-out-there-chords-1470231) | [MuseScore (easy piano)](https://musescore.com/user/3375361/scores/24473599) |
 | **Awesome God** | Rich Mullins | [Spotify](https://open.spotify.com/track/089YdobV7859anDvVu1TsY) | [Ultimate Guitar (Em)](https://tabs.ultimate-guitar.com/tab/rich-mullins/awesome-god-chords-594833) | [MuseScore (choral)](https://musescore.com/_lamenatseeach/our-god-is-an-awesome-god-rich-mullins) |
 
@@ -71,10 +71,10 @@ A curated list of songs with links to playback, simple chords, and melody/sheet 
 | Song | Artist | Playback | Sheet Music / Tabs |
 |------|--------|----------|-------------------|
 | If This Is The Last Time | LANY | [Spotify](https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc?si=30c402a2699b4b08) | [Tabs](https://tabs.ultimate-guitar.com/tab/print?app_utm_campaign=Export2pdfDownload&flats=0&font_size=0&id=1751642&is_ukulele=0&simplified=0&transpose=0) |
-| The Middle | Jimmy Eat World | — | [Chords](https://tabs.ultimate-guitar.com/tab/print?app_utm_campaign=Export2pdfDownload&flats=0&font_size=0&id=872107&is_ukulele=0&simplified=0&transpose=0) |
+| The Middle | Jimmy Eat World | [YouTube](https://www.youtube.com/watch?v=oKsxPW6i3pM) | [Chords](https://tabs.ultimate-guitar.com/tab/print?app_utm_campaign=Export2pdfDownload&flats=0&font_size=0&id=872107&is_ukulele=0&simplified=0&transpose=0) |
 | Sing Your Praise To The Lord | Amy Grant | [Spotify](https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil?si=b97e5f1e778245fa) | [Sheet Music](https://www.noteflight.com/music/titles/68ae0467-359f-4c3a-86b8-6b4135337a08/sing-your-praise-to-the-lord) |
-| Annie's Song | John Denver | — | [Chords](https://tabs.ultimate-guitar.com/tab/john-denver/annies-song-chords-831622) |
-| Let It Be | The Beatles | — | [Chords](https://tabs.ultimate-guitar.com/tab/the-beatles/let-it-be-chords-17427) |
-| Take Me Home, Country Roads | John Denver | — | [Chords](https://tabs.ultimate-guitar.com/tab/john-denver/take-me-home-country-roads-chords-57606) |
+| Annie's Song | John Denver | [YouTube](https://www.youtube.com/watch?v=RNOTF-znQyw) | [Chords](https://tabs.ultimate-guitar.com/tab/john-denver/annies-song-chords-831622) |
+| Let It Be | The Beatles | [YouTube](https://www.youtube.com/watch?v=CGj85pVzRJs) | [Chords](https://tabs.ultimate-guitar.com/tab/the-beatles/let-it-be-chords-17427) |
+| Take Me Home, Country Roads | John Denver | [YouTube](https://www.youtube.com/watch?v=c0dvabcWVo0) | [Chords](https://tabs.ultimate-guitar.com/tab/john-denver/take-me-home-country-roads-chords-57606) |
 | Somewhere Out There | An American Tail | [YouTube](https://www.youtube.com/watch?v=usZPFIT5phM) | — |
 | Awesome God | Rich Mullins | [Spotify](https://open.spotify.com/track/089YdobV7859anDvVu1TsY?si=kV8nrGrCR3mkhc8WaC7PJA) | — |
